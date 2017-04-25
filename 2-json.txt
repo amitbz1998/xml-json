@@ -1,0 +1,16 @@
+"school":{
+	"class":{	
+		"student":{
+			"id:1234,
+			"first_name":"amit",
+			"last_name":"ben",
+			"grades":{
+				"math":100,
+				"history":79,
+				"english":80,
+				"hebrew":92,
+				"sport":100
+			}
+		}
+	}
+}
